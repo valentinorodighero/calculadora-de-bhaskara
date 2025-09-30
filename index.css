@@ -4,7 +4,7 @@
 h1 {
     background-color: cornsilk;
     color: chocolate;
-    width: 70rem;
+    width: 68rem;
     padding: 10px;
     border-radius: 30px;
     font-family: Arial, Helvetica, sans-serif;
@@ -27,9 +27,3 @@ body {
     color: white;
     width: 4rem
 }
-p {
-    background-color: white;
-}
-
-
-
